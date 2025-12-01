@@ -5,6 +5,12 @@
 ## User settings
 xcuserdata/
 
+*.xcworkspace
+*.xcodeproj
+Dervied/**
+Derived/
+Tuist/.build
+
 ## Obj-C/Swift specific
 *.hmap
 
